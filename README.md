@@ -1,7 +1,4 @@
-# Cashfree-Telegram-Payout-Bot
-Automated vendor payment system using Telegram Bot and Cashfree Payout APIs for seamless bank transfers.
-
-# 💸 Cashfree Telegram Payout Bot
+# Cashfree Telegram Payout Bot
 
 A Telegram Bot that allows businesses to make vendor payments directly from Telegram using the Cashfree Payout API.
 
