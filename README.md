@@ -271,7 +271,7 @@ Aman Kumar
 
 AI Engineer | Automation Developer | Agentic AI Builder
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/aman-kumar007/
 
 ---
 
